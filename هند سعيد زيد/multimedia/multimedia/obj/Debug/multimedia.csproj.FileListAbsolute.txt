@@ -1,0 +1,17 @@
+C:\Users\المصطفى نت\source\repos\multimedia\multimedia\bin\Debug\multimedia.exe.config
+C:\Users\المصطفى نت\source\repos\multimedia\multimedia\bin\Debug\multimedia.exe
+C:\Users\المصطفى نت\source\repos\multimedia\multimedia\bin\Debug\multimedia.pdb
+C:\Users\المصطفى نت\source\repos\multimedia\multimedia\obj\Debug\multimedia.csprojAssemblyReference.cache
+C:\Users\المصطفى نت\source\repos\multimedia\multimedia\obj\Debug\multimedia.Form1.resources
+C:\Users\المصطفى نت\source\repos\multimedia\multimedia\obj\Debug\multimedia.Properties.Resources.resources
+C:\Users\المصطفى نت\source\repos\multimedia\multimedia\obj\Debug\multimedia.rlc.resources
+C:\Users\المصطفى نت\source\repos\multimedia\multimedia\obj\Debug\multimedia.csproj.GenerateResource.cache
+C:\Users\المصطفى نت\source\repos\multimedia\multimedia\obj\Debug\multimedia.csproj.CoreCompileInputs.cache
+C:\Users\المصطفى نت\source\repos\multimedia\multimedia\obj\Debug\multimedia.exe
+C:\Users\المصطفى نت\source\repos\multimedia\multimedia\obj\Debug\multimedia.pdb
+C:\Users\المصطفى نت\source\repos\multimedia\multimedia\obj\Debug\multimedia.rlc_de.resources
+C:\Users\المصطفى نت\source\repos\multimedia\multimedia\obj\Debug\multimedia.data_show.resources
+C:\Users\المصطفى نت\source\repos\multimedia\multimedia\obj\Debug\multimedia.shanon.resources
+C:\Users\المصطفى نت\source\repos\multimedia\multimedia\obj\Debug\multimedia.huffman.resources
+C:\Users\المصطفى نت\source\repos\multimedia\multimedia\obj\Debug\multimedia.adbtive_huffman.resources
+C:\Users\المصطفى نت\source\repos\multimedia\multimedia\obj\Debug\multimedia.dictionary_EN.resources
